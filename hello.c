@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-    printf("Windows¥tMicrosoft¥\n");
-    printf("OS X¥tApple¥n");
+    printf("%d¥", 100+200);
     return 0;
 }
